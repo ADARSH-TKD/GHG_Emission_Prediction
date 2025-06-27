@@ -1,5 +1,7 @@
 # 🌍 Greenhouse Gas Emission Prediction
 
+<img src ="https://github.com/ADARSH-TKD/GHG_Emission_Prediction/blob/main/GHG%2BEmissions%2Bof%2BFood%2BSupply%2BChain.gif">
+
 
 This project aims to predict **Greenhouse Gas (GHG) emissions** from various industrial and commodity sectors in the U.S. using data-driven machine learning models. The goal is to support climate action by helping industries analyze and reduce their carbon footprint.
 
@@ -66,6 +68,8 @@ Evaluation metrics used:
 - Sector-wise emission factor analysis
 
 ---
+
+<img src="https://github.com/ADARSH-TKD/GHG_Emission_Prediction/blob/main/img.png?raw=true">
 
 ## 🏁 Getting Started
 
